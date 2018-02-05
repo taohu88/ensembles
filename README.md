@@ -11,3 +11,4 @@ video: https://www.youtube.com/watch?v=sRktKszFmSk&list=PL6c2aKbLXM7lViGtsJr40MB
 
 # Videos and Presentations
 * Tainqi Chen on XGBoost: https://www.youtube.com/watch?v=Vly8xGnNiWs
+* https://www.youtube.com/watch?v=8Y-droPeKu8&t=398s
